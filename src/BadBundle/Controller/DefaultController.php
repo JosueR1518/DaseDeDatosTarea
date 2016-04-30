@@ -3,6 +3,7 @@
 namespace BadBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
+use BadBundle\Entity\Carrera;
 
 class DefaultController extends Controller
 {
@@ -15,5 +16,9 @@ class DefaultController extends Controller
         //que ondas aqui
         //comentario 4
         //hola mundo5
+        
+        
+        $holamundo=new \BadBundle\Entity\Usuario();
+    
     }
 }
