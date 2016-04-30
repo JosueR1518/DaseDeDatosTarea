@@ -1,0 +1,6 @@
+6b5324,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/,1462041950,,200
+f65b10,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/hello,1462041956,a0059a,200
+a0059a,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/hello,1462041956,,404
+6dadc8,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/,1462041964,,200
+b9c075,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/,1462042091,,200
+5b18a6,::1,GET,http://localhost/DaseDeDatosTarea/web/app_dev.php/,1462042094,,200

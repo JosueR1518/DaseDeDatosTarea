@@ -1,0 +1,7 @@
+bad:
+    resource: "@BadBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation
