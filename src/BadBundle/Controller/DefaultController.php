@@ -11,5 +11,7 @@ class DefaultController extends Controller
         return $this->render('BadBundle:Default:index.html.twig');
         
         //we die tengo sueño
+        //ma mierdad ya me aburri
+        //que ondas aqui
     }
 }
