@@ -1,3 +1,7 @@
 bad_homepage:
     path:     /
     defaults: { _controller: BadBundle:Default:index }
+    
+bad_sigpe:
+    path:  /sigpera
+    defaults: { _controller: BadBundle:Base:sigpera }

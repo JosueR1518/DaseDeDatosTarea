@@ -114,6 +114,11 @@ class appDevUrlMatcher extends Symfony\Bundle\FrameworkBundle\Routing\Redirectab
             return array (  '_controller' => 'BadBundle\\Controller\\DefaultController::indexAction',  '_route' => 'bad_homepage',);
         }
 
+        // bad_sigpe
+        if ($pathinfo === '/sigpera') {
+            return array (  '_controller' => 'BadBundle\\Controller\\BaseController::sigperaAction',  '_route' => 'bad_sigpe',);
+        }
+
         // homepage
         if (rtrim($pathinfo, '/') === '') {
             if (substr($pathinfo, -1) !== '/') {

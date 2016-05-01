@@ -3,7 +3,7 @@
 namespace BadBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
-
+//prueba de palntilla 
 class BaseController extends Controller
 {
     
